@@ -7,11 +7,11 @@ git clone https://github.com/lugam/ionic-youtube-exam.git
 ```
 
 ```sh
-> cd ionic-youtube-exam
+cd ionic-youtube-exam
 ```
 
 ```sh
-> ionic serve
+ionic serve
 ```
 
  When you get message below. Just press 'Y'.
